@@ -1,5 +1,0 @@
-package curso.product.service;
-
-public interface ProductService {
-
-}

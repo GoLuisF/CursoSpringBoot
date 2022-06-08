@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="org.eclipse.buildship.ui.wizard.project.import">
-		<item key="project_location" value="C:\Users\Luis\Documents\microServices\shopping-service"/>
-		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(7.5-rc-1))"/>
-		<item key="gradle_user_home" value="C:\Users\Luis\eclipse\java-2022-03\eclipse\gradle"/>
-	</section>
-</section>
