@@ -1,0 +1,58 @@
+package curso.product.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import curso.product.entity.Category;
+import curso.product.entity.Product;
+import curso.product.repository.ProductRepository;
+
+public class ProductServiceImpl implements ProductService {
+
+	@Autowired
+	private ProductRepository productRepository;
+	
+	@Override
+	public List<Product> listAllProducts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product getProduct(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product createProduct(Product product) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product updateProduct(Product product) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product deleteProduct(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Product> findByCategory(Category category) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product updateStock(Long id, Double quantity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

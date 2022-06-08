@@ -1,0 +1,5 @@
+package store.shopping.service;
+
+public interface InvoiceService {
+
+}

@@ -1,0 +1,5 @@
+package store.shopping.client;
+
+public class CustomerHystrixFallbackFactory {
+
+}

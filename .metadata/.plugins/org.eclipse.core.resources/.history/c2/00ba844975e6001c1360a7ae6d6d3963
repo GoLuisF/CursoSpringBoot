@@ -1,0 +1,5 @@
+package store.shopping.entity;
+
+public class Invoice {
+
+}

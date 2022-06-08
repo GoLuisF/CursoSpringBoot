@@ -1,0 +1,6 @@
+package curso.product.controller;
+
+public class ErrorMessage {
+	private String code;
+	private List<Map<String, String>> messages;
+}

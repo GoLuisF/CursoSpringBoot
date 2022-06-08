@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package store.shopping.client;
+
+/**
+ * @author Luis
+ *
+ */
+public interface CustomerClient {
+
+}
